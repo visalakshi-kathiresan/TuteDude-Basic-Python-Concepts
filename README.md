@@ -56,7 +56,7 @@ Example:
      Hello,  Visalakshi Kathiresan! Welcome to  the Python Programming
 ---
 
-## 🚀 How to Run:
+## How to Run:
 
 1. Clone or download this repository.
 2. Open a terminal or command prompt.
