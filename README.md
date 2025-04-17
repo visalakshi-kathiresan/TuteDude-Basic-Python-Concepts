@@ -26,8 +26,14 @@ The program will output the results of:
 - Product
 - Quotient
 
----
-
+  
+Example:
+    Enter first number: 5
+    Enter second number: 2 
+    Addition Result: 7 
+    Subtraction Result: 3 
+    Multiplication Result: 10 
+    Division Result: 2.5
 
 ---
 
@@ -44,6 +50,10 @@ Write a Python program that:
 ###  Expected Output:
 The program will display a custom greeting.  
 
+Example:
+     Enter your first name: Visalakshi
+     Enter your last name: Kathiresan
+     Hello,  Visalakshi Kathiresan! Welcome to  the Python Programming
 ---
 
 ## 🚀 How to Run:
