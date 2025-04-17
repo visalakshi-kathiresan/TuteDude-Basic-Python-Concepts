@@ -3,11 +3,6 @@
 
 This repository contains Python scripts for Assignment 1 tasks, focused on building fundamental Python skills such as user input handling, mathematical operations, string manipulation, and output display.
 
-# Python Basic Tasks — Assignment 1  
-**Module 2: Basic Python Concepts**
-
-This repository contains Python scripts for Assignment 1 tasks, focused on building fundamental Python skills such as user input handling, mathematical operations, string manipulation, and output display.
-
 ---
 
 ##  Task 1: Perform Basic Mathematical Operations  
